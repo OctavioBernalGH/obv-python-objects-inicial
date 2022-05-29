@@ -1,5 +1,6 @@
 "Se importa la clase heredada."
 from Vehiculo import Vehiculo
+
 # Se crea la clase Coche que heredará de Vehiculo sus atributos y métodos.
 class Coche(Vehiculo):
     # Atributos privados de clase

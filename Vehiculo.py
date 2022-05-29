@@ -12,7 +12,7 @@ class Vehiculo():
         self.__modelo = modelo
         self.__potencia = potencia
         self.__ruedas = ruedas
-        print("\nConstructor vacío ...")
+        print("\nConstructor con todos los atributos ...")
 
     # Getter para acceder al atributo marca.
     @property

@@ -1,6 +1,6 @@
 <table>
 <tr>
-<td width="100px"><img src="https://user-images.githubusercontent.com/103035621/170483040-a88d598b-145b-4903-accb-948ceff05811.png" alt="Team MSKA"/></td>
+<td width="100px"><img src="https://user-images.githubusercontent.com/103035621/170879657-753152ec-7368-4de6-abe6-dc3240ce57a8.png" alt="Team MSKA"/></td>
 <td width="1100px"> <h2>obv: Creación de objetos en Python 1</h2> </td>
 </tr>
 </table>
